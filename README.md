@@ -1,3 +1,3 @@
 # RNN-imdb
 
-I implemented RNN model on the imdb dataset in this project
+I implemented the RNN model on the IMDB dataset in this project
